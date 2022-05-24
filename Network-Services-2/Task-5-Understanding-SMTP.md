@@ -51,31 +51,37 @@ Answer: simple mail transfer protocol
 
 What does SMTP handle the sending of? (answer in plural) 
 How to: This can be found in the What is SMTP? section.
+
 Answer: emails
  
 What is the first step in the SMTP process?
 How to: This can be found in the How does SMTP work? section. In the breakdown number 1.
+
 Answer: SMTP handshake
 
 What is the default SMTP port?
 How to: This can be found in the How does SMTP work? section.  In the breakdown number 1.
+
 Answer: 25
 
 Where does the SMTP server send the email if the recipient's server is not available? 
 How to: This can be found in the How does SMTP work? section.  In the breakdown number 4.
+
 Answer: SMTP queue
 
 On what server does the Email ultimately end up on?
 How to: This can be found in the How does SMTP work? section.  In the breakdown number 5.
+
 Answer: POP/IMAP
 
 Can a Linux machine run an SMTP server? (Y/N) 
 How to: This can be found in the What runs SMTP? section.
+
 Answer: Y
 
 Can a Windows machine run an SMTP server? (Y/N)
 How to: This can be found in the What runs SMTP? section.
-Answer: Y
 
+Answer: Y
 
 From <https://tryhackme.com/room/networkservices2> 
